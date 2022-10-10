@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevith-raj&label=Profile%20views&color=0e75b6&style=flat" alt="jeevith-raj" /> </p>
 
-- 🌱 I’m currently learning **Quiskit**
+- 🌱 I’m currently learning **Qiskit**
 
 - 💬 Ask me about **ML,DL,Blockchain**
 
